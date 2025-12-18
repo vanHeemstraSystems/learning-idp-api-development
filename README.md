@@ -2,6 +2,8 @@
 
 This repository focuses on mastering API development using Python frameworks to build, manage, and automate RESTful APIs for Internal Development Platform (IDP) development.
 
+- [References](./REFERENCES.md)
+
 ## 🎯 Learning Objectives
 
 By working through this repository, you will:
